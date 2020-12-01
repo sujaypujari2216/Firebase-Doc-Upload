@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393277320256",
+    "firebase_url": "https://doctorsays-481bd.firebaseio.com",
+    "project_id": "doctorsays-481bd",
+    "storage_bucket": "doctorsays-481bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393277320256:android:2a8c9c85ab0c1fcc3043a5",
+        "android_client_info": {
+          "package_name": "com.example.firebasedocupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393277320256-4ls28vep0apm3qn6v0lek9ohvpeqdiks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedocupload",
+            "certificate_hash": "648461569000e63f413c8d4abdfd48f5cc5b8337"
+          }
+        },
+        {
+          "client_id": "393277320256-4bmkc8d4mui3b1lmdcv0a7on5l0k9s3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KT8gA9t3s0hSJPhfbxkLVqqSgoQo2Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393277320256-4bmkc8d4mui3b1lmdcv0a7on5l0k9s3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
